@@ -1,0 +1,44 @@
+
+.footer {
+  background: none repeat scroll 0 0 #2E2E2E;
+  border-top: 5px solid #C52D2F;
+  height: 84px;
+  margin-top: 110px;
+}
+
+.footer_left {
+  padding: 10px;
+}
+
+.text-left {
+  color: #FFFFFF;
+  font-size: 12px;
+  margin-top: 15px;
+}
+
+#footer {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: #fff;
+  background: black;
+}
+
+#footer a {
+  color: #fff;
+}
+
+#footer a:hover {
+  color: #c52d2f;
+}
+
+#footer ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#footer ul > li {
+  display: inline-block;
+  margin-left: 15px;
+}
+
